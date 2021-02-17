@@ -1,0 +1,28 @@
+html {
+    background-color: rgb(99, 54, 117);
+    font-family: priori-sans, sans-serif;
+    font-size: 24px;
+}
+h1 { 
+    font-size: 60px; 
+    color:rgb(239, 226, 250); 
+    text-align: center; 
+    font-style: normal;
+    margin-bottom: -0.5em;
+}
+h2 {
+    text-align: center; 
+    font-size: 30px; 
+    color: rgb(245, 209, 227);
+}
+h3 {
+    text-align: center;
+}
+p {
+    color: plum;
+    margin-left: 12em;
+}
+#chorus {
+    font-style: italic;
+    color: rgb(239, 226, 250);
+}
