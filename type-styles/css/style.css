@@ -1,0 +1,47 @@
+html {
+    font-family: 'Crimson Text', serif;
+    margin: 10%;
+    background-color:plum;
+    font-size: 18px;
+    color:aliceblue;
+}
+h1 {
+    font-size: 48px;
+    margin-bottom:-0.5em;
+    color: aliceblue;
+    text-transform:uppercase;
+    
+}
+h2 {
+    font-style: italic;
+    font-weight: normal;
+    margin-bottom:-0.5em;
+    color:saddlebrown
+}
+h3 {
+    color:rgb(90, 90, 11);
+    margin-bottom: -1em;
+}
+h4 {
+    margin-bottom: -1em;
+    color: saddlebrown;
+    text-transform: uppercase;
+    font-weight: normal;
+    font-size: 16px;
+    /* margin-bottom: 0.2em; */
+}
+#fw {
+    font-weight: bold;
+}
+#fs {
+    font-style: italic;
+}
+#ls {
+    letter-spacing: 0.3em;
+}
+#td {
+    text-decoration: underline;
+}
+#tt {
+    text-transform: uppercase;
+}
