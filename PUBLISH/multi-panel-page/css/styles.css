@@ -1,0 +1,107 @@
+html{
+    font-family: 'Futura', sans-serif;
+    font-size: 18px;
+    color: rgb(148, 168, 168);
+}
+
+.italics{
+    font-style: italic;
+}
+
+h1{
+    color: rgb(230, 228, 220);
+    font-size: 80px;
+    font-weight: bold;
+    text-align: center;
+    margin: 152px 0 0 0;
+}
+
+h2{
+    color:rgb(180, 167, 167);
+    font-size: 40px;
+    text-align: center;
+    padding-top: 40px;
+    margin-top: 0;
+}
+
+h3{
+    color: rgb(230, 228, 220);
+    font-size: 28px;
+    font-weight: bold;
+    margin-top: 0;
+}
+
+h4{
+    margin: 3px 0 0 0;
+    font-size: 20px;
+    color: darkslategrey;
+}
+
+.panel{
+    padding-left: calc(50% - 480px);
+    padding-right: calc(50% - 480px);
+    padding-top: 0px;
+    padding-bottom: 32px;
+}
+
+.intro{
+    text-align: center;
+    background-image: url(https://slow-life-hokkaido.com/cms/wp-content/uploads/2019/06/kotani1-1040x693.jpg);
+    padding: 10px 0 145px 0;
+    margin: auto;
+}
+
+.feature.panel{
+    background-color:rgb(98, 94, 119);
+}
+
+.gallery.panel{
+    background-color: rgb(230, 228, 220);
+}
+
+#float-image{
+    width: 400px; 
+    height: 300px;
+    background-size: cover;
+    float: right;
+    padding: 0 0 30px 50px;
+}
+
+.image-grid li{
+    width: 450px;
+    height: 150px;
+    display: block;
+    float: left;
+    margin: 0 30px 25px 0;
+}
+
+.image-grid img{
+    width: 200px;
+    height: 150px;
+    float: left;
+    margin-right: 15px;
+    object-fit: cover;
+}
+
+.outro.panel{
+    background-color: rgb(87, 100, 100);
+    padding-bottom: 90px;
+}
+
+.outro.panel p{
+    font-size: 25px;
+    color: aliceblue;
+    text-align: center;
+    margin: auto;
+    width: 700px;
+}
+
+footer{
+    background-color: white;
+}
+
+footer p{
+    padding-top: 22px;
+    padding-left: 200px;
+}
+
